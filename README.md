@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=css,github,html,js,nodejs,react,vscode,webpack,ts,c,cs,cpp,docker,dotnet,git,graphql,linux,mongodb,netlify,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,unity,unreal,linux,react,dotnet,js,git,mysql,java,py)](https://skillicons.dev)
 
 ## Stats
 <!--[![Kjartan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kjartanandersen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)-->

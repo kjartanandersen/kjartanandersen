@@ -5,5 +5,5 @@
 
 ## Stats
 <!--[![Kjartan's GitHub stats](https://github-readme-stats-kappa-topaz.vercel.app/api?username=kjartanandersen&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjartanandersen&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+
 
